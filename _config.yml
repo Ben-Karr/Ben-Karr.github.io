@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 title: Portfolio
-logo: assets/logo.png
 description: A quick overview of my projects to showcase my skill set in Machine Learning & Data Science.
-show_downloads: false
