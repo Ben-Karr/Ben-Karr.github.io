@@ -4,7 +4,7 @@
 * Content 1
 * Content 2 
 
-<p style="text-align: center;">## Project 2</p>
+## <p style="text-align: center;">Project 2</p>
 * Content 1
 * Content 2
 
