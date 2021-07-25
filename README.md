@@ -1,10 +1,10 @@
-# My portfolio
+# <p align=center>My portfolio</p>
 
 ## Project 1
 * Content 1
 * Content 2 
 
-## Project 2
+<p style="text-align: center;">## Project 2</p>
 * Content 1
 * Content 2
 
