@@ -1,16 +1,16 @@
 # <p align=center>My portfolio</p>
 
-## Project 1
+## <p aign=center>Project 1</p>
 * Content 1
 * Content 2 
 
-## <p style="text-align: center;">Project 2</p>
+## <p aign=center>Project 2</p>
 * Content 1
 * Content 2
 
 ---
 
-## [Certificates](./certificates.md)
+## <p aign=center>[Certificates](./certificates.md)</p>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque porttitor consequat quam. Mauris eleifend velit dolor, vel bibendum sapien consectetur et. Etiam gravida sodales blandit. Vivamus tristique gravida ligula, fringilla facilisis ipsum sollicitudin in. Aenean elementum tellus quis ipsum pulvinar, id ullamcorper velit facilisis. Nunc ullamcorper elit sed odio imperdiet, sit amet sodales nisi elementum. Curabitur libero elit, vulputate in vehicula consectetur, efficitur quis velit. Sed vitae mi nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non semper neque. Quisque at tristique ipsum. Curabitur faucibus lectus non felis aliquet, ac ultrices tortor iaculis. Nunc nunc augue, bibendum non nunc at, vestibulum rhoncus mauris. Sed non mi nec lacus malesuada semper. Morbi vel auctor augue.
 
