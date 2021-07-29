@@ -25,3 +25,15 @@ _C++ | Open CV | Object Detection_
 # Tabular Data
 
 ## [Basketball Scores]()
+
+## [House Pricing]()
+
+## [Titanic]()
+
+# NLP
+
+## [Successive Language Model]()
+
+# Misc
+
+## [RoboApp]()
