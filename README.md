@@ -2,6 +2,7 @@
 
 ## [SIIM-FISABIO-RSNA](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
 _Object Detection | kaggle | fastai | torch | pandas_
+![SIIM example](assets/SIIM_example.png)
 * Identify and localize COVID-19 abnormalities on chest radiographs.
 
 ## [Shopee Price Match](https://github.com/Ben-Karr/Shopee-PriceMatch)
@@ -12,10 +13,12 @@ _Classification | kaggle | fastai | pandas_
 
 ## [RoboML](https://github.com/Ben-Karr/RoboML)
 _Classification | Data Collection | fastai | pandas | ipython widgets_
+![RoboML](assets/RoboML_example.JPG)
 * Build a dataset of images of electronic circuits that are either closed or broken.
 
 ## [Zazzup Webcam](https://github.com/Ben-Karr/zazzup-webcam-opencv)
 _C++ | Open CV | Object Detection_
+![zazzup example](assets/zazzup_example.png)
 * Find the bounding box around the faces in a webcam stream.
 * Add a hat and a bowtie to the video.
 
