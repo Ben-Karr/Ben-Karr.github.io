@@ -32,8 +32,8 @@ _C++ | Open CV | Object Detection_
 
 ## [Titanic](https://github.com/Ben-Karr/Titanic/)
 |LName|Pclass|Sex|SibSp|Parch|Cabin|Title|Age|Fare|target|
-
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+
 |Vovk|3|male|0|0|N|Mr|-0.5500|-0.4892|0|
 |Tobin|3|male|0|0|F|Mr|-0.0827|-0.4921|0|
 |Porter|1|male|0|0|C|Mr|1.2989|0.3984|0|
