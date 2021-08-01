@@ -50,10 +50,16 @@ _C++ | Open CV | Object Detection_
 |Ward|1|female|0|0|N|Miss|0.4114|9.6617|1|
 |Rommetvedt|3|male|0|0|N|Mr|-0.0827|-0.4916|0|
 
+# Visualization
+
+## [Netflix Dash](https://github.com/Ben-Karr/NetflixDash)
+[![NetflixDash](assets/NetflixDash_example.png)](https://netflix-viz.herokuapp.com/)
+
 # NLP
 
-## [Successive Language Model]()
+## [Successive Language Model](https://github.com/Ben-Karr/LanguageModel-successive)
 
 # Misc
 
-## [RoboApp]()
+## [RoboApp](https://github.com/Ben-Karr/RoboApp)
+[![RoboApp](assets/RoboApp_example.png)](https://robocircuit.herokuapp.com/)
