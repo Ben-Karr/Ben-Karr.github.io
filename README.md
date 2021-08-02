@@ -28,6 +28,7 @@ I used `C++` and in particular the OpenCV library to dynamically find the boundi
 ## [Basketball Scores](https://github.com/Ben-Karr/BasketballScores)
 _Data Cleansing/Preparation/Visualization | Feature Engineering | Neural Nets | keras | pandas | XGBoost | Regex | scipy_
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
+
 _Predict the scores of NCAA basketball games._
 The data in this project was webscraped so a lot of data cleaning had to be done. Most team names were spelled in different ways, which had to be fixed first. I engineered some useful features and then trained a neural net with keras. I also compared it to the results of fastai and a gradient boosting algorithm. 
 
