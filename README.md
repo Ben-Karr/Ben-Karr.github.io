@@ -9,8 +9,8 @@ _Identify and localize COVID-19 abnormalities on chest radiographs._ In this pro
 ## [Shopee Price Match](https://github.com/Ben-Karr/Shopee-PriceMatch)
 _Image Recognition | Siamese Neural Net | Deep Learning | CNNs | kaggle | fastai | torch | pandas_
 [![Shopee example](assets/shopee_example.png)](https://github.com/Ben-Karr/Shopee-PriceMatch)
-_Decide wether two images describe the same item or not, to be able to better match item prices for online retail_
-In this project I refine the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process.
+_Decide wether two images describe the same item or not, to be able to better match item prices for online retail._
+In this project I refine the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process. The advantage of the SiameseImage class is, that for every epoch, every image gets paired with a different image to augment the dataset and prevent overfitting. (The simple aproach prepares a dataframe that matches two images for all training.)
 
 ## [RoboML](https://github.com/Ben-Karr/RoboML)
 _Image Classification | Data Collection/Preparation | Deep Learning | CNNs | fastai | pandas | ipywidgets | matplotlib_
