@@ -30,11 +30,12 @@ _Data Cleansing/Preparation/Visualization | Feature Engineering | Neural Nets | 
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
 
 _Predict the scores of NCAA basketball games._
-The data in this project was webscraped so a lot of data cleaning had to be done. Most team names were spelled in different ways, which had to be fixed first. I engineered some useful features and then trained a neural net with keras. I also compared it to the results of fastai and a gradient boosting algorithm. 
+The data in this project was webscraped so a lot of data cleaning had to be done. Most team names were spelled in different ways, which needed to be fixed first. I engineered some useful features and then trained a neural net with keras. I also compared it to the results of fastai and a gradient boosting algorithm. 
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
 _Data Preprocessing/Visualization | Regression | Neural Nets | Gradient Boosting | Ensemble | kaggle | pandas | fastai | XGBoost | sklearn_
 [![House Pricing example](assets/HousePricing_example.png)](https://github.com/Ben-Karr/HousePricing)
+_Predict the housing prices in a kaggle competition classic._ The main problem with this dataset was, that both the 'none-value' (eg there is no basement) and the missing value were encoded as `nan`. I manually filled all missing values appropriately and learned a Neural Net and a Gradient Booster to predict the house prices. I also ensembled both learners to decrease the error value.
 
 ## [Titanic](https://github.com/Ben-Karr/Titanic/)
 _Data Preprocessing | Feature Engineering | Classification | Neural Nets | Hyperparameter optimization | kaggle | pandas | fastai | sklearn | XGBoost_
@@ -48,11 +49,16 @@ _Data Preprocessing | Feature Engineering | Classification | Neural Nets | Hyper
 |Sutehall|3|male|0|0|N|Mr|-0.3281|-0.5062|0|
 |Klaber|1|male|0|0|C|Mr|0.8885|-0.1138|0|
 
+_Predict who survived the Titanic shipwreck in another classic kaggle competition._
+This dataset contains information about all passangers of the Titanic voyage. After preprocessing and condensing some features I used fastai to train a Neural Net on that data. To find the "best" hyperparameters for that Neural Net I ran a random search and stuck with the best performing. I also trained a Gradient Booster but it couldn't beat the NN by itself and ensembled.
+
 # Visualization
 
 ## [Netflix Dash](https://github.com/Ben-Karr/NetflixDash)
 _Data Visualization | Dashboard | Plotly | Dash | pandas | html_
 [![NetflixDash](assets/NetflixDash_example.png)](https://netflix-viz.herokuapp.com/)
+
+_Show and compare which countries watch which Netflix shows._
 
 # NLP
 
