@@ -35,7 +35,7 @@ _C++ | OpenCV | Object Detection | Cascade Classifier_
 # Tabular Data
 
 ## [Basketball Scores](https://github.com/Ben-Karr/BasketballScores)
-_Data Cleansing/Preparation | Feature Engineering | Neural Nets_
+_Data Cleansing/Preparation | Feature Engineering | Neural Nets | Visualization_
 <br>
 _keras | pandas | XGBoost | Regex_
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
