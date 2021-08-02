@@ -4,6 +4,7 @@
 _Object Detection| Deep Learning | CNNs | Data Preparation_
 <br>
 _Python | kaggle | fastai | torch | pandas_
+<br>
 [![SIIM example](assets/SIIM_example.png)](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
 * Identify and localize COVID-19 abnormalities on chest radiographs.
 
@@ -11,6 +12,7 @@ _Python | kaggle | fastai | torch | pandas_
 _Image Recognition | Siamese Neural Net | Deep Learning | CNNs_
 <br>
 _kaggle | fastai | torch | pandas_
+<br>
 [![Shopee example](assets/shopee_example.png)](https://github.com/Ben-Karr/Shopee-PriceMatch)
 * Decide wether two images describe the same item or not, to be able to better match item prices for online retail.
 * Refine the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process.
@@ -19,11 +21,13 @@ _kaggle | fastai | torch | pandas_
 _Image Classification | Data Collection/Preparation | Deep Learning | CNNs_
 <br>
 _fastai | pandas | ipywidgets_
+<br>
 [![RoboML](assets/RoboML_example.JPG)](https://github.com/Ben-Karr/RoboML)
 * Build a dataset of images of electronic circuits that are either closed or broken.
 
 ## [Zazzup Webcam](https://github.com/Ben-Karr/zazzup-webcam-opencv)
 _C++ | OpenCV | Object Detection | Cascade Classifier_
+<br>
 [![zazzup example](assets/zazzup_example.png)](https://github.com/Ben-Karr/zazzup-webcam-opencv)
 * Find the bounding box around the faces in a webcam stream.
 * Add a hat and a bowtie to the video.
@@ -31,12 +35,15 @@ _C++ | OpenCV | Object Detection | Cascade Classifier_
 # Tabular Data
 
 ## [Basketball Scores](https://github.com/Ben-Karr/BasketballScores)
+<br>
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
+<br>
 [![House Pricing example](assets/HousePricing_example.png)](https://github.com/Ben-Karr/HousePricing)
 
 ## [Titanic](https://github.com/Ben-Karr/Titanic/)
+<br>
 
 |LName|Pclass|Sex|SibSp|Parch|Cabin|Title|Age|Fare|target|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -50,13 +57,16 @@ _C++ | OpenCV | Object Detection | Cascade Classifier_
 # Visualization
 
 ## [Netflix Dash](https://github.com/Ben-Karr/NetflixDash)
+<br>
 [![NetflixDash](assets/NetflixDash_example.png)](https://netflix-viz.herokuapp.com/)
 
 # NLP
 
 ## [Successive Language Model](https://github.com/Ben-Karr/LanguageModel-successive)
+<br>
 
 # Misc
 
 ## [RoboApp](https://github.com/Ben-Karr/RoboApp)
+<br>
 [![RoboApp](assets/RoboApp_example.png)](https://robocircuit.herokuapp.com/)
