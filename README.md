@@ -1,10 +1,10 @@
 # Computer Vision
 
 ## [SIIM-FISABIO-RSNA](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
-> Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | torch | pandas
+> _Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | torch | pandas_
 
 [![SIIM example](assets/SIIM_example.png)](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
-* Identify and localize COVID-19 abnormalities on chest radiographs.
+_Identify and localize COVID-19 abnormalities on chest radiographs._ In this project I
 
 ## [Shopee Price Match](https://github.com/Ben-Karr/Shopee-PriceMatch)
 _Image Recognition | Siamese Neural Net | Deep Learning | CNNs | kaggle | fastai | torch | pandas_
