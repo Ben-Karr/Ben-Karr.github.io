@@ -20,7 +20,7 @@ _kaggle | fastai | torch | pandas_
 ## [RoboML](https://github.com/Ben-Karr/RoboML)
 _Image Classification | Data Collection/Preparation | Deep Learning | CNNs_
 <br>
-_fastai | pandas | ipywidgets_
+_fastai | pandas | ipywidgets | matplotlib_
 <br>
 [![RoboML](assets/RoboML_example.JPG)](https://github.com/Ben-Karr/RoboML)
 * Build a dataset of images of electronic circuits that are either closed or broken.
@@ -35,7 +35,9 @@ _C++ | OpenCV | Object Detection | Cascade Classifier_
 # Tabular Data
 
 ## [Basketball Scores](https://github.com/Ben-Karr/BasketballScores)
+_Data Cleansing/Preparation | Feature Engineering | Neural Nets_
 <br>
+_keras | pandas | XGBoost | Regex_
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
