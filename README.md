@@ -35,13 +35,15 @@ _C++ | OpenCV | Object Detection | Cascade Classifier_
 # Tabular Data
 
 ## [Basketball Scores](https://github.com/Ben-Karr/BasketballScores)
-_Data Cleansing/Preparation | Feature Engineering | Neural Nets | Visualization_
+_Data Cleansing/Preparation/Visualization | Feature Engineering | Neural Nets_
 <br>
-_keras | pandas | XGBoost | Regex_
+_keras | pandas | XGBoost | Regex | scipy_
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
+_Data Preprocessing/Visualization | Regression | Neural Nets | Grdient Boosting | Ensemble_
 <br>
+_pandas | XGBoost | sklearn | _
 [![House Pricing example](assets/HousePricing_example.png)](https://github.com/Ben-Karr/HousePricing)
 
 ## [Titanic](https://github.com/Ben-Karr/Titanic/)
