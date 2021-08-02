@@ -21,13 +21,15 @@ I collected over a thousand photos of electronic circuits, that were either full
 _C++ | OpenCV | Object Detection | Cascade Classifier_
 [![zazzup example](assets/zazzup_example.png)](https://github.com/Ben-Karr/zazzup-webcam-opencv)
 _Add a hat and a bowtie to a face in a webcam stream._
-I used `C++` and in particular the OpenCV library to find the bounding box around a face in a video. I then add pictures of a hat and a bowtie to the upper/lower edge of that box.
+I used `C++` and in particular the OpenCV library to dynamically find the bounding box around a face in a video. I then add pictures of a hat and a bowtie to the upper/lower edge of that box.
 
 # Tabular Data
 
 ## [Basketball Scores](https://github.com/Ben-Karr/BasketballScores)
 _Data Cleansing/Preparation/Visualization | Feature Engineering | Neural Nets | keras | pandas | XGBoost | Regex | scipy_
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
+_Predict the scores of NCAA basketball games._
+The data in this project was webscraped so a lot of data cleaning had to be done. Most team names were spelled in different ways, which had to be fixed first. I engineered some useful features and then trained a neural net with keras. I also compared it to the results of fastai and a gradient boosting algorithm. 
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
 _Data Preprocessing/Visualization | Regression | Neural Nets | Gradient Boosting | Ensemble | kaggle | pandas | fastai | XGBoost | sklearn_
