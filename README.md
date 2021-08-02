@@ -35,6 +35,7 @@ The data in this project was webscraped so a lot of data cleaning had to be done
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
 _Data Preprocessing/Visualization | Regression | Neural Nets | Gradient Boosting | Ensemble | kaggle | pandas | fastai | XGBoost | sklearn_
 [![House Pricing example](assets/HousePricing_example.png)](https://github.com/Ben-Karr/HousePricing)
+
 _Predict the housing prices in a kaggle competition classic._ The main problem with this dataset was, that both the 'none-value' (eg there is no basement) and the missing value were encoded as `nan`. I manually filled all missing values appropriately and learned a Neural Net and a Gradient Booster to predict the house prices. I also ensembled both learners to decrease the error value.
 
 ## [Titanic](https://github.com/Ben-Karr/Titanic/)
@@ -58,15 +59,12 @@ This dataset contains information about all passangers of the Titanic voyage. Af
 _Data Visualization | Dashboard | Plotly | Dash | pandas | html_
 [![NetflixDash](assets/NetflixDash_example.png)](https://netflix-viz.herokuapp.com/)
 
-_Show and compare which countries watch which Netflix shows._
-
-# NLP
-
-## [Successive Language Model](https://github.com/Ben-Karr/LanguageModel-successive)
-_Language Model | RNNs | LSTMs | wikitext | fastai_
+_Show and compare which countries watch which Netflix shows._ I used Plotly and Dash to build a Dashboard that lets you choose a list of countries, a list of Netflix show genres which can be visualized in different forms.
 
 # Misc
 
 ## [RoboApp](https://github.com/Ben-Karr/RoboApp)
 _Deployment | Flask | html | CSS | heroku_
 [![RoboApp](assets/RoboApp_example.png)](https://robocircuit.herokuapp.com/)
+_Make the Machine Learning algorithm from RoboMl accessible by a webapp._ 
+This is my attempt of building a custom webpage with Flask at the backend and html, CSS and JavaScript in the frontend. The design was made to make it simple to navigate through the page with a smartphone.
