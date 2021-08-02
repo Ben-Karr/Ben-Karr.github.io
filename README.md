@@ -29,7 +29,7 @@ _Data Cleansing/Preparation/Visualization | Feature Engineering | Neural Nets | 
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
-_Data Preprocessing/Visualization | Regression | Neural Nets | Gradient Boosting | Ensemble | kaggle | pandas | fastai | XGBoost | sklearn | _
+_Data Preprocessing/Visualization | Regression | Neural Nets | Gradient Boosting | Ensemble | kaggle | pandas | fastai | XGBoost | sklearn_
 [![House Pricing example](assets/HousePricing_example.png)](https://github.com/Ben-Karr/HousePricing)
 
 ## [Titanic](https://github.com/Ben-Karr/Titanic/)
