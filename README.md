@@ -1,12 +1,12 @@
 # Computer Vision
 
 ## [SIIM-FISABIO-RSNA](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
-_Object Detection| Computer Vision | Deep Learning | kaggle | fastai | torch | pandas Data preparation_
+_Object Detection| Deep Learning | CNNs | kaggle | fastai | torch | pandas | Data Preparation_
 [![SIIM example](assets/SIIM_example.png)](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
 * Identify and localize COVID-19 abnormalities on chest radiographs.
 
 ## [Shopee Price Match](https://github.com/Ben-Karr/Shopee-PriceMatch)
-_Classification | kaggle | fastai | pandas_
+_Classification | Image Recognition | Deep Learning | CNNs | kaggle | fastai | torch | pandas_
 [![Shopee example](assets/shopee_example.png)](https://github.com/Ben-Karr/Shopee-PriceMatch)
 * Decide wether two images describe the same item or not, to be able to better match item prices for online retail.
 * Refine the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process.
