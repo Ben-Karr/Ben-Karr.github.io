@@ -41,13 +41,15 @@ _keras | pandas | XGBoost | Regex | scipy_
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
-_Data Preprocessing/Visualization | Regression | Neural Nets | Grdient Boosting | Ensemble_
+_Data Preprocessing/Visualization | Regression | Neural Nets | Gradient Boosting | Ensemble_
 <br>
-_pandas | XGBoost | sklearn | _
+_kaggle | pandas | fastai | XGBoost | sklearn | _
 [![House Pricing example](assets/HousePricing_example.png)](https://github.com/Ben-Karr/HousePricing)
 
 ## [Titanic](https://github.com/Ben-Karr/Titanic/)
+_Data Preprocessing | Feature Engineering | Classification | Neural Nets | Hyperparameter optimization_
 <br>
+_kaggle | pandas | fastai | sklearn | XGBoost_
 
 |LName|Pclass|Sex|SibSp|Parch|Cabin|Title|Age|Fare|target|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -61,6 +63,7 @@ _pandas | XGBoost | sklearn | _
 # Visualization
 
 ## [Netflix Dash](https://github.com/Ben-Karr/NetflixDash)
+_Data Visualization | Dashboard | Plotly | Dash | pandas | html_
 <br>
 [![NetflixDash](assets/NetflixDash_example.png)](https://netflix-viz.herokuapp.com/)
 
