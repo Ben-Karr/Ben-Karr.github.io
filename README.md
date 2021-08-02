@@ -6,18 +6,18 @@ _Object Detection| Deep Learning | CNNs | kaggle | fastai | torch | pandas | Dat
 * Identify and localize COVID-19 abnormalities on chest radiographs.
 
 ## [Shopee Price Match](https://github.com/Ben-Karr/Shopee-PriceMatch)
-_Classification | Image Recognition | Deep Learning | CNNs | kaggle | fastai | torch | pandas_
+_Image Recognition | Siamese Neural Net | Deep Learning | CNNs | kaggle | fastai | torch | pandas_
 [![Shopee example](assets/shopee_example.png)](https://github.com/Ben-Karr/Shopee-PriceMatch)
 * Decide wether two images describe the same item or not, to be able to better match item prices for online retail.
 * Refine the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process.
 
 ## [RoboML](https://github.com/Ben-Karr/RoboML)
-_Classification | Data Collection | fastai | pandas | ipython widgets_
+_Image Classification | Data Collection | Data Preparation | Deep Learning | CNNs | fastai | pandas | ipywidgets_
 [![RoboML](assets/RoboML_example.JPG)](https://github.com/Ben-Karr/RoboML)
 * Build a dataset of images of electronic circuits that are either closed or broken.
 
 ## [Zazzup Webcam](https://github.com/Ben-Karr/zazzup-webcam-opencv)
-_C++ | Open CV | Object Detection_
+_C++ | OpenCV | Object Detection | Cascade Classifier_
 [![zazzup example](assets/zazzup_example.png)](https://github.com/Ben-Karr/zazzup-webcam-opencv)
 * Find the bounding box around the faces in a webcam stream.
 * Add a hat and a bowtie to the video.
