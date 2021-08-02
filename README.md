@@ -15,13 +15,13 @@ In this project I refine the fastai SiameseImage class and DataLoader method, to
 ## [RoboML](https://github.com/Ben-Karr/RoboML)
 _Image Classification | Data Collection/Preparation | Deep Learning | CNNs | fastai | pandas | ipywidgets | matplotlib_
 [![RoboML](assets/RoboML_example.JPG)](https://github.com/Ben-Karr/RoboML)
-* Build a dataset of images of electronic circuits that are either closed or broken.
+I collected over a thousand photos of electronic circuits, that were either fully functioning or broken. I cropped, resized and labeled the images with a lot of additional information to make it easy to train a CNN while accounting for different situations, that would occour in "reality". This helped to understand in which situation the classifier predicts reliably and to adapt the data collection process. 
 
 ## [Zazzup Webcam](https://github.com/Ben-Karr/zazzup-webcam-opencv)
 _C++ | OpenCV | Object Detection | Cascade Classifier_
 [![zazzup example](assets/zazzup_example.png)](https://github.com/Ben-Karr/zazzup-webcam-opencv)
-* Find the bounding box around the faces in a webcam stream.
-* Add a hat and a bowtie to the video.
+_Add a hat and a bowtie to a face in a webcam stream._
+I used `C++` and in particular the OpenCV library to find the bounding box around a face in a video. I then add pictures of a hat and a bowtie to the upper/lower edge of that box.
 
 # Tabular Data
 
