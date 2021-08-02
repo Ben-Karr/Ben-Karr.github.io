@@ -1,7 +1,7 @@
 # Computer Vision
 
 ## [SIIM-FISABIO-RSNA](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
-_Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | torch | pandas_
+> Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | torch | pandas
 [![SIIM example](assets/SIIM_example.png)](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
 * Identify and localize COVID-19 abnormalities on chest radiographs.
 
@@ -53,7 +53,7 @@ _Data Visualization | Dashboard | Plotly | Dash | pandas | html_
 # NLP
 
 ## [Successive Language Model](https://github.com/Ben-Karr/LanguageModel-successive)
-_Language Model | LSTM | wikitext | fastai_
+_Language Model | RNNs | LSTMs | wikitext | fastai_
 
 # Misc
 
