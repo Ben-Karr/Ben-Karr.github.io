@@ -14,7 +14,9 @@ _Image Recognition | Siamese Neural Net | Deep Learning | CNNs | kaggle | fastai
 * Refine the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process.
 
 ## [RoboML](https://github.com/Ben-Karr/RoboML)
-_Image Classification | Data Collection | Data Preparation | Deep Learning | CNNs | fastai | pandas | ipywidgets_
+_Image Classification | Data Collection/Preparation | Deep Learning | CNNs_
+<br>
+_fastai | pandas | ipywidgets_
 [![RoboML](assets/RoboML_example.JPG)](https://github.com/Ben-Karr/RoboML)
 * Build a dataset of images of electronic circuits that are either closed or broken.
 
