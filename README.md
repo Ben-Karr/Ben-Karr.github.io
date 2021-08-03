@@ -4,7 +4,7 @@
 _Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | torch | pandas_
 
 [![SIIM example](assets/SIIM_example.png)](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
-_Identify and localize COVID-19 abnormalities on chest radiographs._ In this project I prepared the image dataset and the related dataframe to use it in a Neural Net that predicts an arbitrary number of labeled bounding boxes. I adjusted a lot of the fastai utility functions to work with the current version of fastai and to be able to rapidly build and compare models. The backbone of this project is a RetinaNet, that makes use of _Anchor boxes_ and _Focal Loss_ and can be used with different encoders like (X)Resnets or EfficientNets.
+_Identify and localize COVID-19 abnormalities on chest radiographs._ In this project I prepared a medical image dataset and the related dataframe to be used in a Neural Net that predicts an arbitrary number of labeled bounding boxes. These boxes are designed to assist doctors in identifying COVID-19 infections by suggesting an area of interest and a classification of these. I adjusted a lot of the fastai utility functions to work with the current version of fastai and to be able to rapidly build and compare models. The backbone of this project is a RetinaNet, that makes use of _Anchor boxes_ and _Focal Loss_ and can be used with different encoders like (X)Resnets or EfficientNets.
 
 ## [Shopee Price Match](https://github.com/Ben-Karr/Shopee-PriceMatch)
 _Image Recognition | Siamese Neural Net | Deep Learning | CNNs | kaggle | fastai | torch | pandas_
