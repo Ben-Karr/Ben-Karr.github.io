@@ -4,13 +4,13 @@
 _Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | torch | pandas_
 
 [![SIIM example](assets/SIIM_example.png)](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
-_Identify and localize COVID-19 abnormalities on chest radiographs._ In this project I prepare the image dataset and the related dataframe to be used in a Neural Net that predicts an arbitrary number of labeled bounding boxes. I adjust a lot of the fastai utility functions to work with the current version of fastai and to be able to rapidly build and compare models. The backbone of this project is a RetinaNet, that makes use of _Anchor boxes_ and _Focal Loss_ and can be used with different encoders like (X)Resnets or EfficientNets.
+_Identify and localize COVID-19 abnormalities on chest radiographs._ In this project I prepared the image dataset and the related dataframe to use it in a Neural Net that predicts an arbitrary number of labeled bounding boxes. I adjusted a lot of the fastai utility functions to work with the current version of fastai and to be able to rapidly build and compare models. The backbone of this project is a RetinaNet, that makes use of _Anchor boxes_ and _Focal Loss_ and can be used with different encoders like (X)Resnets or EfficientNets.
 
 ## [Shopee Price Match](https://github.com/Ben-Karr/Shopee-PriceMatch)
 _Image Recognition | Siamese Neural Net | Deep Learning | CNNs | kaggle | fastai | torch | pandas_
 [![Shopee example](assets/shopee_example.png)](https://github.com/Ben-Karr/Shopee-PriceMatch)
 _Decide wether two images describe the same item or not, to be able to better match item prices for online retail._
-In this project I refine the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process. The advantage of the SiameseImage class is, that for every epoch, every image gets paired with a different image to augment the dataset and prevent overfitting. (The simple aproach prepares a dataframe that matches two images for all training.)
+In this project I refined the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process. The advantage of the SiameseImage class is, that for every epoch, every image gets paired with a different image to augment the dataset and prevent overfitting. (The simple aproach prepares a dataframe that matches two images for all training.)
 
 ## [RoboML](https://github.com/Ben-Karr/RoboML)
 _Image Classification | Data Collection/Preparation | Deep Learning | CNNs | fastai | pandas | ipywidgets | matplotlib_
