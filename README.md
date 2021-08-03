@@ -4,18 +4,18 @@
 _Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | torch | pandas_
 
 [![SIIM example](assets/SIIM_example.png)](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
-_Identify and localize COVID-19 abnormalities on chest radiographs._ In this project I prepared a medical image dataset and the related dataframe to be used in a Neural Net that predicts an arbitrary number of labeled bounding boxes. These boxes are designed to assist doctors in identifying COVID-19 infections by suggesting an area of interest and a classification of these. I adjusted a lot of the fastai utility functions to work with the current version of fastai and to be able to rapidly build and compare models. The backbone of this project is a RetinaNet, that makes use of _Anchor boxes_ and _Focal Loss_ and can be used with different encoders like (X)Resnets or EfficientNets.
+_Identify and localize COVID-19 abnormalities on chest radiographs._ In this project I prepared a medical image dataset and the related dataframe to be used in a Neural Net that predicts an arbitrary number of labeled bounding boxes. These boxes are designed to assist doctors in identifying COVID-19 infections by suggesting an area of interest and a classification of these. I adjusted a lot of the fastai utility functions to be able to rapidly prototype and compare models. The backbone of this project is a RetinaNet, that makes use of _Anchor boxes_ and _Focal Loss_ and can be used with different encoders like (X)Resnets or EfficientNets.
 
 ## [Shopee Price Match](https://github.com/Ben-Karr/Shopee-PriceMatch)
 _Image Recognition | Siamese Neural Net | Deep Learning | CNNs | kaggle | fastai | torch | pandas_
 [![Shopee example](assets/shopee_example.png)](https://github.com/Ben-Karr/Shopee-PriceMatch)
-_Decide wether two images describe the same item or not, to be able to better match item prices for online retail._
-In this project I refined the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process. The advantage of the SiameseImage class is, that for every epoch, every image gets paired with a different image to augment the dataset and prevent overfitting. (The simple aproach prepares a dataframe that matches two images for all training.)
+_Decide whether two images describe the same item or not._
+In this project I refined the fastai SiameseImage class and DataLoader method, to make use of a given dataframe, that contains the items labels and speed up the dataloading process. This problem is often encountered in online retail: if you can _automatically_ decide whether an image of a product your competitor offers is the same as yours, you can adjust the price of yours and gain an advantage. The advantage of the SiameseImage class is, that for every epoch, every image gets paired with a different image to augment the dataset and prevent overfitting. 
 
 ## [RoboML](https://github.com/Ben-Karr/RoboML)
 _Image Classification | Data Collection/Preparation | Deep Learning | CNNs | fastai | pandas | ipywidgets | matplotlib_
 [![RoboML](assets/RoboML_example.JPG)](https://github.com/Ben-Karr/RoboML)
-I collected over a thousand photos of electronic circuits, that were either fully functioning or broken. I cropped, resized and labeled the images with a lot of additional information to make it easy to train a CNN while accounting for different situations, that would occour in "reality". This helped to understand in which situation the classifier predicts reliably and to adapt the data collection process. 
+I collected photos of electronic circuits, that were either fully functioning or broken. I cropped, resized and labeled the images with a lot of additional information to make it easy to train a CNN while accounting for different situations, that would occour in "reality". This helped to understand in which situation the classifier predicts reliably and to adapt the data collection process. 
 
 ## [Zazzup Webcam](https://github.com/Ben-Karr/zazzup-webcam-opencv)
 _C++ | OpenCV | Object Detection | Cascade Classifier_
