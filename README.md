@@ -30,7 +30,7 @@ _Data Cleansing/Preparation/Visualization | Feature Engineering | Neural Nets | 
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
 
 _Predict the scores of NCAA basketball games._
-The dataset were game results from the last 5 years in NCAA basketball. Since it was sourced by scraping the web, I needed to do a lot of cleaning and preparation of the source and engineered some useful features to trained a Neural Net with keras. I also compared it to the results of fastai and XGBoost. 
+This dataset consisted of game results from the last 5 years in NCAA basketball. Since it was sourced by scraping the web, I needed to do a lot of cleaning and preparation of the source and engineered some useful features to trained a Neural Net with keras. I also compared it to the results of fastai and XGBoost. 
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
 _Data Preprocessing/Visualization | Regression | Neural Nets | Gradient Boosting | Ensemble | kaggle | pandas | fastai | XGBoost | sklearn_
