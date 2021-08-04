@@ -10,7 +10,7 @@ _Identify and localize COVID-19 abnormalities on chest radiographs._ In this pro
 _Image Recognition | Siamese Neural Net | Deep Learning | CNNs | kaggle | fastai | torch | pandas_
 [![Shopee example](assets/shopee_example.png)](https://github.com/Ben-Karr/Shopee-PriceMatch)
 _Decide whether two images describe the same item or not._
-This problem is often encountered in online retail: if you can _automatically_ decide whether an image of a product your competitor offers is the same as yours, you can adjust the price of yours and gain an advantage. The advantage of the SiameseImage class is, that for every epoch, every image gets paired with a different image to augment the dataset and prevent overfitting. In this project I refined the fastai SiameseImage class and DataLoader method, to make use of a given dataframe that contains the items labels and speed up the dataloading process. 
+This problem is often encountered in online retail: if you can _automatically_ decide whether an image of a product your competitor offers is the same as yours, you can adjust the price of yours and gain an edge. The advantage of the SiameseImage class is, that for every epoch, every image gets paired with a different image (instead of pairing the image once for all training) to augment the dataset and prevent overfitting. In this project I refined the fastai SiameseImage class and DataLoader method, to make use of a given dataframe that contains the items labels and speed up the dataloading process. 
 
 ## [RoboML](https://github.com/Ben-Karr/RoboML)
 _Image Classification | Data Collection/Preparation | Deep Learning | CNNs | fastai | pandas | ipywidgets | matplotlib_
@@ -21,7 +21,7 @@ I collected photos of electronic circuits, that were either fully functioning or
 _C++ | OpenCV | Object Detection | Cascade Classifier_
 [![zazzup example](assets/zazzup_example.png)](https://github.com/Ben-Karr/zazzup-webcam-opencv)
 _Add a hat and a bowtie to a face in a webcam stream._
-I used `C++` and OpenCV (in particulara pretrained Haar Cascade Classifier) to dynamically find the bounding box around a face in a video. I then add pictures of a hat and a bowtie to the upper/lower edge of that box.
+I used `C++` and OpenCV (in particular a pretrained Haar Cascade Classifier) to dynamically find the bounding box around a face in a video. I then add pictures of a hat and a bowtie to the upper/lower edge of that box.
 
 # Tabular Data
 
@@ -30,13 +30,13 @@ _Data Cleansing/Preparation/Visualization | Feature Engineering | Neural Nets | 
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
 
 _Predict the scores of NCAA basketball games._
-The data in this project was webscraped so a lot of data cleaning had to be done. Most team names were spelled in different ways, which needed to be fixed first. I engineered some useful features and then trained a neural net with keras. I also compared it to the results of fastai and a gradient boosting algorithm. 
+The dataset were game results from the last 5 years in NCAA basketball. Since it was sourced by scraping the web, I needed to do a lot of cleaning and preparation of the source and engineered some useful features to trained a Neural Net with keras. I also compared it to the results of fastai and XGBoost. 
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
 _Data Preprocessing/Visualization | Regression | Neural Nets | Gradient Boosting | Ensemble | kaggle | pandas | fastai | XGBoost | sklearn_
 [![House Pricing example](assets/HousePricing_example.png)](https://github.com/Ben-Karr/HousePricing)
 
-_Predict the housing prices in a kaggle competition classic._  I manually filled all missing values appropriately and learned a Neural Net and a Gradient Booster to predict the house prices. I also ensembled both learners to decrease the error value.
+_Predict the housing prices in a kaggle competition._  This dataset consists of 79 features about sold houses but came with a lot of missing values which had to be filled manually and apropriately. I learned a Neural Net and a Gradient Booster to predict the house prices and ensembled both learners to decrease the error value.
 
 ## [Titanic](https://github.com/Ben-Karr/Titanic/)
 _Data Preprocessing | Feature Engineering | Classification | Neural Nets | Hyperparameter optimization | kaggle | pandas | fastai | sklearn | XGBoost_
@@ -50,8 +50,8 @@ _Data Preprocessing | Feature Engineering | Classification | Neural Nets | Hyper
 |Sutehall|3|male|0|0|N|Mr|-0.3281|-0.5062|0|
 |Klaber|1|male|0|0|C|Mr|0.8885|-0.1138|0|
 
-_Predict who survived the Titanic shipwreck in another classic kaggle competition._
-This dataset contains information about all passangers of the Titanic voyage. After preprocessing and condensing some features I used fastai to train a Neural Net on that data. To find the "best" hyperparameters for that Neural Net I ran a random search and stuck with the best performing. I also trained a Gradient Booster but it couldn't beat the NN by itself and ensembled.
+_Predict who survived the Titanic shipwreck in a kaggle competition._
+This dataset contains information about all passangers of the Titanic voyage. After preprocessing and condensing some features I used fastai to train a Neural Net on that data. To find the "best" hyperparameters for that Neural Net I ran a random search and stuck with the best performing. I also trained a Gradient Booster to compare the results.
 
 # Visualization
 
@@ -59,7 +59,7 @@ This dataset contains information about all passangers of the Titanic voyage. Af
 _Data Visualization | Dashboard | Plotly | Dash | pandas | html_
 [![NetflixDash](assets/NetflixDash_example.png)](https://netflix-viz.herokuapp.com/)
 
-_Show and compare which countries watch which Netflix shows._ I used Plotly and Dash to build a Dashboard that lets you choose a list of countries, a list of Netflix show genres which can be visualized in different forms.
+_Show and compare which countries watch which Netflix shows._ I used Plotly and Dash to build a Dashboard that lets you choose a list of countries and a list of Netflix show genres, which can be visualized in different forms.
 
 # Misc
 
@@ -67,4 +67,4 @@ _Show and compare which countries watch which Netflix shows._ I used Plotly and 
 _Deployment | Flask | html | CSS | heroku_
 [![RoboApp](assets/RoboApp_example.png)](https://robocircuit.herokuapp.com/)
 _Make the Machine Learning algorithm from RoboMl accessible by a webapp._ 
-This is my attempt of building a custom webpage with Flask at the backend and html, CSS and JavaScript in the frontend. The design was made to make it simple to navigate through the page with a smartphone.
+This is my attempt of building a custom webpage with Flask at the backend and html, CSS and JavaScript in the frontend. The design was made to make it as simple as possible to navigate through the page with a smartphone.
