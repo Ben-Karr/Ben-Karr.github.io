@@ -59,7 +59,7 @@ This dataset contains information about all passangers of the Titanic voyage. Af
 _Data Visualization | Dashboard | Plotly | Dash | pandas | html_
 [![NetflixDash](assets/NetflixDash_example.png)](https://netflix-viz.herokuapp.com/)
 
-_Show and compare which countries watch which Netflix shows._ I used Plotly and Dash to build a Dashboard that lets you choose a list of countries and a list of Netflix show genres, which can be visualized in different forms.
+_Show and compare which countries watch which kind of Netflix shows._ I used Plotly and Dash to build a Dashboard that lets you choose a list of countries and a list of Netflix show genres, which can be visualized in different forms.
 
 # Misc
 
