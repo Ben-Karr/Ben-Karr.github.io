@@ -30,7 +30,7 @@ _Data Cleansing/Preparation/Visualization | Feature Engineering | Neural Nets | 
 [![Basketball Scores example](assets/BasketballScores_example.png)](https://github.com/Ben-Karr/BasketballScores)
 
 _Predict the scores of NCAA basketball games._
-This dataset consisted of game results from the last 5 years in NCAA basketball. Since it was sourced by scraping the web, I needed to do a lot of cleaning and preparation of the source and engineered some useful features to trained a Neural Net with keras. I also compared it to the results of fastai and XGBoost. 
+This dataset consisted of game results from the last 5 years in NCAA basketball. Since it was sourced by scraping the web, I needed to do a lot of cleaning and preparation of the source and engineered some useful features to train a Neural Net with keras. I also compared it to the results of fastai and XGBoost. 
 
 ## [House Pricing](https://github.com/Ben-Karr/HousePricing)
 _Data Preprocessing/Visualization | Regression | Neural Nets | Gradient Boosting | Ensemble | kaggle | pandas | fastai | XGBoost | sklearn_
@@ -51,7 +51,7 @@ _Data Preprocessing | Feature Engineering | Classification | Neural Nets | Hyper
 |Klaber|1|male|0|0|C|Mr|0.8885|-0.1138|0|
 
 _Predict who survived the Titanic shipwreck in a kaggle competition._
-This dataset contains information about all passangers of the Titanic voyage. After preprocessing and condensing some features I used fastai to train a Neural Net on that data. To find the "best" hyperparameters for that Neural Net I ran a random search and stuck with the best performing. I also trained a Gradient Booster to compare the results.
+This dataset contains information about all passangers of the Titanic voyage. After preprocessing and condensing some features I used fastai to train a Neural Net on that data. To find the "best" hyperparameters I ran a random search and stuck with the best performing. I also trained a Gradient Booster to compare the results.
 
 # Visualization
 
