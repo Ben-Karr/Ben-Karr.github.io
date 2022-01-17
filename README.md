@@ -1,4 +1,9 @@
 # Computer Vision
+## [Sartorius Cell Segmentation](https://github.com/Ben-Karr/SartoriusCellSegmentation)
+_Instance Segmentation | Deep Learning | Mask-RCNN | Python | kaggle | Detectron2 | fastai_
+
+[![CellSeg example](assets/CellSeg_example.png)](https://github.com/Ben-Karr/SartoriusCellSegmentation)
+_Project Description_
 
 ## [SIIM-FISABIO-RSNA](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
 _Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | icevision | YOLOv5 | pandas_
