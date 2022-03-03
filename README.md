@@ -2,13 +2,15 @@
 ## [On Cloud N](https://github.com/Ben-Karr/OnCloudN)
 _Semantic Segmentation | Deep Learning | UNet | fastai | DrivenData_
 [![OnCloudN example](assets/OnCloudN_example.png)](https://github.com/Ben-Karr/SartoriusCellSegmentation)
-This Challenge was hosted on DrivenData and the goal is to segment clouds in Sentenial-2 Satelite data. Besides visual image data, the Sentenial-2 dataset also offers different non-visual bands, in particular infrared. This solution uses geometric augmentations on all four channels and "visual" augmentations on the rgb-channels only. The model is a simple U-Net that is pretrained on 440x440 random crops and fine tuned on the whole image in the original chip resolution (512x512). The submission ensembles 3 models with different splits where two are fp32, the other is fp16 and places at position 50 (Top 6%). The dataset has a lot of issues with its label masks (broken, wrong, inconsistent) to improve training a lot of these instances are removed.
+_Segment Satelite data into Cloud and No Cloud._
+This Challenge was hosted on DrivenData and the goal is to segment clouds in Sentenial-2 Satelite data. Besides visual image data, the Sentenial-2 dataset also offers different non-visual bands, in particular infrared. This solution uses geometric augmentations on all four channels and “visual” augmentations on the rgb-channels only. The model is a simple U-Net that is pretrained on 440x440 random crops and fine tuned on the whole image in the original chip resolution (512x512). 
 
 ## [Sartorius Cell Segmentation](https://github.com/Ben-Karr/SartoriusCellSegmentation)
 _Instance Segmentation | Deep Learning | Mask-RCNN | Python | kaggle | Detectron2 | fastai_
 
 [![CellSeg example](assets/CellSeg_example.png)](https://github.com/Ben-Karr/SartoriusCellSegmentation)
-_Project Description_
+_Segment individual cells in cancer cell lines._
+I use my own approach of switching between classification and semantic segmentation with a simple U-Net (separating individual cells in postprocessing) as well as the direct use of instance segmentation with Detectron2. Of course the (ResNet32/50) U-Net models can not keep up with the Mask-RCNN Detectron uses, but it still gained about 10% Map IoU when using this approach.
 
 ## [SIIM-FISABIO-RSNA](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
 _Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | icevision | YOLOv5 | pandas_
