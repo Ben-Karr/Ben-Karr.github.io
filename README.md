@@ -10,7 +10,7 @@ _Instance Segmentation | Deep Learning | Mask-RCNN | Python | kaggle | Detectron
 
 [![CellSeg example](assets/CellSeg_example.png)](https://github.com/Ben-Karr/SartoriusCellSegmentation)
 _Segment individual cells in cancer cell lines._
-I use my own approach of switching between classification and semantic segmentation with a simple U-Net (separating individual cells in postprocessing) as well as the direct use of instance segmentation with Detectron2. Of course the (ResNet32/50) U-Net models can not keep up with the Mask-RCNN Detectron uses, but it still gained about 10% Map IoU when using this approach.
+I use my own approach of switching between classification and semantic segmentation with a simple U-Net (sharing a backbone and separating individual cells in postprocessing) as well as the direct use of instance segmentation with Detectron2. Of course the (ResNet32/50) U-Net models can not keep up with the Mask-RCNN Detectron uses, but it still gained about 10% Map IoU when using this approach.
 
 ## [SIIM-FISABIO-RSNA](https://github.com/Ben-Karr/SIIM-FISABIO-RSNA)
 _Object Detection| Deep Learning | CNNs | Data Preparation | Python | kaggle | fastai | icevision | YOLOv5 | pandas_
