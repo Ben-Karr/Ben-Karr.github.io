@@ -1,7 +1,7 @@
 # Computer Vision
 ## [On Cloud N](https://github.com/Ben-Karr/OnCloudN)
 _Semantic Segmentation | Deep Learning | UNet | fastai | DrivenData_
-[![OnCloudN example](assets/OnCloudN_example.png)](https://github.com/Ben-Karr/SartoriusCellSegmentation)
+[![OnCloudN example](assets/OnCloudN_example.png)](https://github.com/Ben-Karr/OnCloudN)
 _Segment Satelite data into Cloud and No Cloud._
 This Challenge was hosted on DrivenData and the goal is to segment clouds in Sentinel-2 Satelite data. Besides visual image data, the Sentinel-2 dataset also offers different non-visual bands, in particular infrared. This solution uses geometric augmentations on all four channels and “visual” augmentations on the rgb-channels only. The model is a simple U-Net that is pretrained on 440x440 random crops and fine tuned on the whole image in the original chip resolution (512x512). 
 
