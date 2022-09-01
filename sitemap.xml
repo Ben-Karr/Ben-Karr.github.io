@@ -1,11 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Ben-Karr.github.io/home/index.html</loc>
-    <lastmod>2022-08-25T15:55:14.309Z</lastmod>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/about.html</loc>
+    <lastmod>2022-09-01T09:10:08.809Z</lastmod>
   </url>
   <url>
-    <loc>https://Ben-Karr.github.io/home/core.html</loc>
-    <lastmod>2022-08-25T15:55:15.093Z</lastmod>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/index.html</loc>
+    <lastmod>2022-09-01T09:10:10.030Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/blog.html</loc>
+    <lastmod>2022-09-01T09:10:10.434Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/Web/robo_app.html</loc>
+    <lastmod>2022-09-01T09:10:10.874Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/Web/netflix_dash.html</loc>
+    <lastmod>2022-09-01T09:10:11.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/ComputerVision/shopee.html</loc>
+    <lastmod>2022-09-01T09:10:11.598Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/ComputerVision/keypoint_webcam.html</loc>
+    <lastmod>2022-09-01T09:10:11.934Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/ComputerVision/siim.html</loc>
+    <lastmod>2022-09-01T09:10:12.290Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/ComputerVision/cloud_n.html</loc>
+    <lastmod>2022-09-01T09:10:12.638Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/ComputerVision/robo_ml.html</loc>
+    <lastmod>2022-09-01T09:10:12.962Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/ComputerVision/zazzup.html</loc>
+    <lastmod>2022-09-01T09:10:13.314Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/ComputerVision/cell_seg.html</loc>
+    <lastmod>2022-09-01T09:10:13.654Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/Embedded/keyword_detection.html</loc>
+    <lastmod>2022-09-01T09:10:14.018Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/Tabular/house_pricing.html</loc>
+    <lastmod>2022-09-01T09:10:14.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/Tabular/basketball_scores.html</loc>
+    <lastmod>2022-09-01T09:10:14.706Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ben-Karr/Ben-Karr.github.io/projects/Tabular/titanic.html</loc>
+    <lastmod>2022-09-01T09:10:15.086Z</lastmod>
   </url>
 </urlset>

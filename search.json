@@ -1,30 +1,107 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ben-Karr.github.io",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This file will become your README and also the index of your documentation."
+    "text": "Languages & Tools:\n\n\nDevelopment:       \n\n\nTools:       \n\n\nFrameworks:       \n\n\nCloud & Web:      \n\n\n  This site was build with Quarto."
   },
   {
-    "objectID": "index.html#install",
-    "href": "index.html#install",
-    "title": "Ben-Karr.github.io",
-    "section": "Install",
-    "text": "Install\npip install Ben_Karr.github.io"
-  },
-  {
-    "objectID": "index.html#how-to-use",
-    "href": "index.html#how-to-use",
-    "title": "Ben-Karr.github.io",
-    "section": "How to use",
-    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
-  },
-  {
-    "objectID": "core.html",
-    "href": "core.html",
-    "title": "core",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Machine Learning and Data Science Site",
     "section": "",
-    "text": "foo\n\n foo ()"
+    "text": "No matching items"
+  },
+  {
+    "objectID": "projects/Web/robo_app.html",
+    "href": "projects/Web/robo_app.html",
+    "title": "Robo App",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/Web/netflix_dash.html",
+    "href": "projects/Web/netflix_dash.html",
+    "title": "Netflix Dash",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/shopee.html",
+    "href": "projects/ComputerVision/shopee.html",
+    "title": "Shopee Price Match",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/keypoint_webcam.html",
+    "href": "projects/ComputerVision/keypoint_webcam.html",
+    "title": "Keypoint Webcam",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/siim.html",
+    "href": "projects/ComputerVision/siim.html",
+    "title": "SIIM-FISABIO-RSNA",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/cloud_n.html",
+    "href": "projects/ComputerVision/cloud_n.html",
+    "title": "On Cloud N",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/robo_ml.html",
+    "href": "projects/ComputerVision/robo_ml.html",
+    "title": "Robo ML",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/zazzup.html",
+    "href": "projects/ComputerVision/zazzup.html",
+    "title": "Zazzup Webcam",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/cell_seg.html",
+    "href": "projects/ComputerVision/cell_seg.html",
+    "title": "Sartorius Cell Segmentation",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/Embedded/keyword_detection.html",
+    "href": "projects/Embedded/keyword_detection.html",
+    "title": "Keyword Detection",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/Tabular/house_pricing.html",
+    "href": "projects/Tabular/house_pricing.html",
+    "title": "House Pricing",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/Tabular/basketball_scores.html",
+    "href": "projects/Tabular/basketball_scores.html",
+    "title": "Basketball Score",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/Tabular/titanic.html",
+    "href": "projects/Tabular/titanic.html",
+    "title": "Titanic",
+    "section": "",
+    "text": "Check on GitHub"
   }
 ]

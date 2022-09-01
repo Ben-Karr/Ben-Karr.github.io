@@ -1,1 +1,1 @@
-Sitemap: https://Ben-Karr.github.io/home/sitemap.xml
+Sitemap: https://github.com/Ben-Karr/Ben-Karr.github.io/sitemap.xml

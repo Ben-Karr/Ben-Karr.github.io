@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/Embedded/keyword_detection.html",
+      "/projects/ComputerVision/keypoint_webcam.html",
+      "/projects/ComputerVision/cloud_n.html",
+      "/projects/ComputerVision/cell_seg.html",
+      "/projects/ComputerVision/siim.html",
+      "/projects/ComputerVision/zazzup.html",
+      "/projects/Tabular/basketball_scores.html",
+      "/projects/ComputerVision/shopee.html",
+      "/projects/Web/netflix_dash.html",
+      "/projects/Web/robo_app.html",
+      "/projects/ComputerVision/robo_ml.html",
+      "/projects/Tabular/titanic.html",
+      "/projects/Tabular/house_pricing.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": []
+  }
+]
