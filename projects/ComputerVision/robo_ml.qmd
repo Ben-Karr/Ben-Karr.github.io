@@ -2,7 +2,6 @@
 title: "Robo ML"
 categories: [Computer Vision, Image Classification, Data Collection, CNNs, fastai]
 date: "2020-11-24"
-image: ../assets/thumbnails/RoboML_thumb.JPG
 gh-link: https://github.com/Ben-Karr/RoboML
 ---
 ::::: {.content-frame}

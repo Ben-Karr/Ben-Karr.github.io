@@ -2,7 +2,6 @@
 title: "Netflix Dash"
 categories: [Visualization, Deployment, Dashboard, Plotly, Dash, heroku, web]
 date: "2021-05-12"
-image: ../assets/thumbnails/NetflixDash_thumb.png
 gh-link: https://github.com/ben-karr/netflixdash
 ---
 ::::: {.content-frame}

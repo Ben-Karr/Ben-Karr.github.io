@@ -2,7 +2,6 @@
 title: "Robo App"
 categories: [Deployment, Flask, heroku, web]
 date: "2021-03-18"
-image: ../assets/thumbnails/RoboApp_thumb.png
 gh-link: https://github.com/Ben-Karr/RoboApp
 ---
 ::::: {.content-frame}

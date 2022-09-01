@@ -2,7 +2,6 @@
 title: "Basketball Score"
 categories: [Tabular Data, Data Preparation, Feature Engineering, Neural Nets, keras, XGBoost]
 date: "2021-06-22"
-image: ../assets/thumbnails/BasketballScores_thumb.png
 gh-link: https://github.com/Ben-Karr/BasketballScores
 ---
 ::::: {.content-frame}
