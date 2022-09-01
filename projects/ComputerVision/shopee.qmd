@@ -1,0 +1,23 @@
+---
+title: "Shopee Price Match"
+categories: [Computer Vision, Image Recognition, SiameseNN, CNNs, fastai, torch, Competition]
+date: "2021-06-16"
+image: ../assets/thumbnails/shopee_thumb.png
+gh-link: https://github.com/Ben-Karr/Shopee-PriceMatch
+---
+::::: {.content-frame}
+_Decide whether two images describe the same item or not._
+
+[![](../assets/shopee_example.png)]({{< meta gh-link >}})
+
+ This problem is often encountered in online retail: if you can automatically decide whether an image of a product your competitor offers is the same as yours, you can adjust the price of yours and gain an edge. The advantage of the SiameseImage class is, that for every epoch, every image gets paired with a different image (instead of pairing the image once for all training) to augment the dataset and prevent overfitting. In this project I refined the fastai SiameseImage class and DataLoader method, to make use of a given dataframe that contains the items labels and speed up the dataloading process.
+ 
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>

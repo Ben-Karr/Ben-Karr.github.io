@@ -1,0 +1,34 @@
+---
+title: "Titanic"
+categories: [Tabular Data, Data Preparation, Classification, Neural Nets, Hyperparameter optimization, Competition, fastai, XGBoost]
+date: "2020-06-30"
+image: "../assets/titanic.jpg"
+gh-link: https://github.com/Ben-Karr/Titanic
+---
+::::: {.content-frame}
+_Predict who survived the Titanic shipwreck in a kaggle competition._
+
+<a href="{{< meta gh-link >}}" style="text-decoration: none">
+
+|LName|Pclass|Sex|SibSp|Parch|Cabin|Title|Age|Fare|target|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Vovk|3|male|0|0|N|Mr|-0.5500|-0.4892|0|
+|Tobin|3|male|0|0|F|Mr|-0.0827|-0.4921|0|
+|Porter|1|male|0|0|C|Mr|1.2989|0.3984|0|
+|Wick|1|female|0|2|C|Miss|0.1156|2.6696|1|
+|Sutehall|3|male|0|0|N|Mr|-0.3281|-0.5062|0|
+|Klaber|1|male|0|0|C|Mr|0.8885|-0.1138|0|
+
+</a>
+
+This dataset contains information about all passangers of the Titanic voyage. After preprocessing and condensing some features I used fastai to train a Neural Net on that data. To find the “best” hyperparameters I ran a random search and stuck with the best performing. I also trained a Gradient Booster to compare the results.
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>

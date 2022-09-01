@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Machine Learning and Data Science Site"
+  navbar:
+    right:
+      - text: Portfolio
+        href: index.html
+      - about.qmd
+      - icon: github
+        href: https://github.com/ben-karr
+
+format:
+  html:
+    theme: superhero
+    css: styles.css

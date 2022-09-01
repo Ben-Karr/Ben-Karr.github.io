@@ -1,0 +1,23 @@
+---
+title: "Netflix Dash"
+categories: [Visualization, Deployment, Dashboard, Plotly, Dash, heroku, web]
+date: "2021-05-12"
+image: ../assets/thumbnails/NetflixDash_thumb.png
+gh-link: https://github.com/ben-karr/netflixdash
+---
+::::: {.content-frame}
+_Show and compare which countries watch which kind of Netflix shows._
+
+[![](../assets/NetflixDash_example.png)](https://netflix-viz.herokuapp.com/)
+
+I used Plotly and Dash to build a Dashboard that lets you choose a list of countries and a list of Netflix show genres, which can be visualized in different forms.
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>

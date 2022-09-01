@@ -1,0 +1,23 @@
+---
+title: "Basketball Score"
+categories: [Tabular Data, Data Preparation, Feature Engineering, Neural Nets, keras, XGBoost]
+date: "2021-06-22"
+image: ../assets/thumbnails/BasketballScores_thumb.png
+gh-link: https://github.com/Ben-Karr/BasketballScores
+---
+::::: {.content-frame}
+_Predict the scores of NCAA basketball games._
+
+[![](../assets/BasketballScores_example.png)]({{< meta gh-link >}})
+
+This dataset consisted of game results from the last 5 years in NCAA basketball. Since it was sourced by scraping the web, I needed to do a lot of cleaning and preparation of the source and engineered some useful features to train a Neural Net with keras. I also compared it to the results of fastai and XGBoost.
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>

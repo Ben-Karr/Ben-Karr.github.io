@@ -1,0 +1,23 @@
+---
+title: "Keypoint Webcam"
+categories: [Computer Vision, Keypoint Detection, FasterRCNN, C++, LibTorch, OpenCV ]
+date: "2022-06-21"
+image: ../assets/thumbnails/sample_with_keypoints.jpg
+gh-link: https://github.com/Ben-Karr/KeypointLibTorch
+---
+::::: {.content-frame}
+_Detect Keypoints in a video._
+
+[![](../assets/sample_with_keypoints.jpg)]({{< meta gh-link >}})
+
+Load a FasterRCNN keypoint model in python / Pytorch and move it to C++ via torchscript. Show a webcam feed with OpenCV and use the model with LibTorch to predict keypoints on the webcam images. Draw the keypoints and limbs onto the images.
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>

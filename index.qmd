@@ -1,0 +1,17 @@
+---
+listing:
+  id: project-listing
+  contents: projects
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  image-height: 300px 
+page-layout: custom
+title-block-banner: false
+---
+<h1 style="text-align:center">Portfolio:</h1>
+
+::: {#project-listing}
+
+:::

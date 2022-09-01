@@ -1,0 +1,23 @@
+---
+title: "Keyword Detection"
+categories: [Computer Audition, Keyword Detection, Embedded, TinyML, Arduino, C++, TensorFlow, keras, Deployment]
+date: "2022-08-17"
+image: ../assets/party_mode.gif
+gh-link: https://github.com/Ben-Karr/KeywordDetectionTinyML
+---
+::::: {.content-frame}
+_Deploy a keyword detection model to an Arduino._
+
+[![](../assets/party_mode.gif)]({{< meta gh-link >}})
+
+Train a custom keyword detection model with keras and save a quantized version with TFLite. Move this model to the Arduino and use Arduino TensorflowLite to do inference.
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>

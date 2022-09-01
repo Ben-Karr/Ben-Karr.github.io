@@ -1,0 +1,65 @@
+---
+title: "About"
+image: logo.png
+about:
+  template: jolla
+  image-shape: rectangle
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ben-karr
+---
+
+This is a selection of my personal projects. You can see some of my skills in Machine/Deep Learning, Computer Vision, Data Science, Data Preparation, Data Visualization and general programming.
+
+#### Languages & Tools:
+
+::::: {.grid}
+
+::: {.feature .g-col-12 .g-col-sm-6 .card}
+Development:<br>
+<img style="margin: 3px 3px 3px 3px" alt="Python" title="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img style="margin: 3px 3px 3px 3px" alt="C++" title="C++" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
+<img style="margin: 3px 3px 3px 3px" title="VS Code" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br>
+<img style="margin: 3px 3px 3px 3px" title="Jupyter Notebooks" alt="Jupyter Notebook" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+<img  style="margin: 3px 3px 3px 3px" title="Java Script" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="margin: 3px 3px 3px 3px" title="SQL" alt="SQL" width="50px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" />
+:::
+
+::: {.feature .g-col-12 .g-col-sm-6 .card}
+Tools:<br>
+<img style="margin: 3px 3px 3px 3px" title="LaTex" alt="LaTex" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
+<img style="margin: 3px 3px 3px 3px" title="Markdown" alt="Markdown" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png" />
+<img alistyle="margin: 3px 3px 3px 3px" title="git"  alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" />
+<img style="margin: 3px 3px 3px 3px" title="github" alt="github" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" />
+<img  style="margin: 3px 3px 3px 3px" title="Terminal" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img  style="margin: 3px 3px 3px 3px" title="Linux" alt="Linux" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/506px-Tux.svg.png" />
+<img  style="margin: 3px 3px 3px 3px" title="Ubuntu" alt="Ubuntu" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+:::
+
+::: {.feature .g-col-12 .g-col-sm-6 .card}
+Frameworks:<br>
+<img style="margin: 3px 3px 3px 3px" title="Pytorch" alt="Pytorch" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/198px-PyTorch_logo_icon.svg.png"/>
+<img style="margin: 3px 3px 3px 3px" title="Numpy" alt="Numpy" width="50px" src="https://numpy.org/images/logo.svg"/>
+<img style="margin: 3px 3px 3px 3px" title="Pandas" alt="Pandas" width="50px" src=" https://pandas.pydata.org/static/img/pandas_mark.svg"/>
+<img style="margin: 3px 3px 3px 3px" title="TensorFlow" alt="TensorFlow" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
+<br>
+<img style="margin: 3px 3px 3px 3px" title="scikit-learn" alt="sklearn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"/>
+<img  style="margin: 3px 3px 3px 3px" title="Flask" alt="Flask" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+:::
+
+::: {.feature .g-col-12 .g-col-sm-6 .card}
+Cloud & Web:<br>
+<img  style="margin:3px 3px 3px 3px" title="Google Cloud Platform" alt="Google Cloud Platform" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/240px-Google-cloud-platform.svg.png"/>
+<img  style="margin: 3px 3px 3px 3px" title="Kubernetes" alt="Kubernetes" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/247px-Kubernetes_logo_without_workmark.svg.png" />
+<img  style="margin: 3px 3px 3px 3px" title="Docker" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<br>
+<img  style="margin: 3px 3px 3px 3px" title="html" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img  style="margin: 3px 3px 3px 3px" title="CSS" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+:::
+
+:::::
+ <br>
+ <br>
+This site was build with [Quarto](https://quarto.org).

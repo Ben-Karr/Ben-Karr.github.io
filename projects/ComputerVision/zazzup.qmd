@@ -1,0 +1,23 @@
+---
+title: "Zazzup Webcam"
+categories: [Computer Vision, C++, Object Detection, OpenCV]
+date: "2021-06-25"
+image: ../assets/thumbnails/zazzup_thumb.png
+gh-link: https://github.com/Ben-Karr/zazzup-webcam-opencv
+---
+::::: {.content-frame}
+_Add a hat and a bowtie to a face in a webcam stream._
+
+[![](../assets/zazzup_example.png)]({{< meta gh-link >}})
+
+ I used C++ and OpenCV (in particular a pretrained Haar Cascade Classifier) to dynamically find the bounding box of a face in a video. I then add pictures of a hat and a bowtie to the upper/lower edge of that box.
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>

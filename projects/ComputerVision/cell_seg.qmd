@@ -1,0 +1,23 @@
+---
+title: "Sartorius Cell Segmentation"
+categories: [Computer Vision, Segmentation, Mask-RCNN, Detectron2, fastai, Competition]
+date: "2022-01-17"
+image: ../assets/thumbnails/CellSeg_thumb.png
+gh-link: https://github.com/Ben-Karr/SartoriusCellSegmentation
+---
+::::: {.content-frame}
+_Segment individual cells in cancer cell lines._
+
+[![](../assets/CellSeg_example.png)]({{< meta gh-link >}})
+
+I use my own approach of switching between classification and semantic segmentation with a simple U-Net (sharing a backbone and separating individual cells in postprocessing) as well as the direct use of instance segmentation with Detectron2. Of course the (ResNet32/50) U-Net models can not keep up with the Mask-RCNN Detectron uses, but it still gained about 10% Map IoU when using this approach.
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>

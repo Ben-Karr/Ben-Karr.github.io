@@ -1,0 +1,23 @@
+---
+title: "Robo ML"
+categories: [Computer Vision, Image Classification, Data Collection, CNNs, fastai]
+date: "2020-11-24"
+image: ../assets/thumbnails/RoboML_thumb.JPG
+gh-link: https://github.com/Ben-Karr/RoboML
+---
+::::: {.content-frame}
+_Build a dataset of photos of electronic circuits, that are either fully functioning or broken at different place._
+
+[![](../assets/RoboML_example.JPG)]({{< meta gh-link >}})
+
+I cropped, resized and labeled the images with a lot of additional information to make it easy to train a CNN while accounting for different situations, that would occour in “reality”. This helped to understand in which situation the classifier predicts reliably and to adapt the data collection process.
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>

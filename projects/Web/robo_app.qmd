@@ -1,0 +1,23 @@
+---
+title: "Robo App"
+categories: [Deployment, Flask, heroku, web]
+date: "2021-03-18"
+image: ../assets/thumbnails/RoboApp_thumb.png
+gh-link: https://github.com/Ben-Karr/RoboApp
+---
+::::: {.content-frame}
+_Make the Machine Learning algorithm from [RoboML](./robo_ml.html) accessible by a webapp._
+
+[![](../assets/RoboApp_example.png)](http://robocircuit.herokuapp.com)
+
+This is my attempt of building a custom webpage with Flask at the backend and html, CSS and JavaScript in the frontend. The design was made to make it as simple as possible to navigate through the page with a smartphone.
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>
