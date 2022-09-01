@@ -16,3 +16,6 @@ format:
   html:
     theme: superhero
     css: styles.css
+
+execute: 
+  freeze: auto
