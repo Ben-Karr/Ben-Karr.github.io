@@ -5,7 +5,7 @@ date: "2022-09-14"
 gh-link: https://github.com/Ben-Karr/tenzies
 ---
 ::::: {.content-frame}
-_Build the game of Tenzi as an React App._
+_Build the game of Tenzi as a React App._
 
 [![](../assets/tenzies_screenshot.png)](http://ben-karr.github.io/tenzies)
 
