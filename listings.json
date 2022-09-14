@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/projects/Web/tenzies.html",
       "/projects/Embedded/keyword_detection.html",
       "/projects/ComputerVision/keypoint_webcam.html",
       "/projects/ComputerVision/cloud_n.html",
