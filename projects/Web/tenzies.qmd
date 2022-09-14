@@ -1,0 +1,21 @@
+---
+title: "Tenzies React"
+categories: [Deployment, React, web, JavaScript, CSS]
+date: "2022-09-14"
+gh-link: https://github.com/Ben-Karr/tenzies
+---
+::::: {.content-frame}
+_Build the game of Tenzi as an React App._
+
+[![](../assets/tenzies_screenshot.png)](http://ben-karr.github.io/tenzies)
+
+This is the final project of the great [Learn React](https://scrimba.com/learn/learnreact) Course by [Bob Ziroll](https://twitter.com/bobziroll). I added a "Roll Counter" and local state that lets you save the "LowScore".
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>
