@@ -10,7 +10,7 @@ about:
       href: https://github.com/ben-karr
 ---
 
-I'm a mathematician with a special interest in Deep Learning and Data Science. This is a selection of my personal projects which shows some of my skills in Machine/Deep Learning, Computer Vision, Data Science, Data Preparation, Data Visualization, Web Development and general programming.
+I'm a mathematician with a special interest in Deep Learning and Data Science. This is a selection of my personal projects which demonstrates some of my skills in Machine/Deep Learning, Computer Vision, Data Science, Data Preparation, Data Visualization, Web Development and general programming.
 
 #### Languages & Tools:
 
