@@ -65,3 +65,7 @@
   text-align: center;
   box-shadow: inset 1px 1px 15px black;
 }
+
+.list-box {
+  display: flex;
+}
