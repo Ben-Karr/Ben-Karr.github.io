@@ -1,16 +1,16 @@
 ---
 title: "About"
-image: logo.png
+image: portrait_480.JPG
 about:
   template: jolla
-  image-shape: rectangle
+  image-shape: round
   links:
     - icon: github
       text: Github
       href: https://github.com/ben-karr
 ---
 
-This is a selection of my personal projects. You can see some of my skills in Machine/Deep Learning, Computer Vision, Data Science, Data Preparation, Data Visualization and general programming.
+I'm a mathematician with a special interest in Deep Learning and Data Science. This is a selection of my personal projects which shows some of my skills in Machine/Deep Learning, Computer Vision, Data Science, Data Preparation, Data Visualization, Web Development and general programming.
 
 #### Languages & Tools:
 
@@ -43,8 +43,8 @@ Frameworks:<br>
 <img style="margin: 3px 3px 3px 3px" title="Pytorch" alt="Pytorch" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/198px-PyTorch_logo_icon.svg.png"/>
 <img style="margin: 3px 3px 3px 3px" title="Numpy" alt="Numpy" width="50px" src="https://numpy.org/images/logo.svg"/>
 <img style="margin: 3px 3px 3px 3px" title="Pandas" alt="Pandas" width="50px" src=" https://pandas.pydata.org/static/img/pandas_mark.svg"/>
+<img  style="margin: 3px 3px 3px 3px" title="Fastai" alt="Fastai" width="50px" src="https://raw.githubusercontent.com/fastai/logos/main/fastai_small.png"/>
 <img style="margin: 3px 3px 3px 3px" title="TensorFlow" alt="TensorFlow" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
-<br>
 <img style="margin: 3px 3px 3px 3px" title="scikit-learn" alt="sklearn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"/>
 <img  style="margin: 3px 3px 3px 3px" title="Flask" alt="Flask" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 :::
@@ -57,6 +57,7 @@ Cloud & Web:<br>
 <br>
 <img  style="margin: 3px 3px 3px 3px" title="html" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  style="margin: 3px 3px 3px 3px" title="CSS" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img  style="margin: 3px 3px 3px 3px" title="React" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/270px-React-icon.svg.png" />
 :::
 
 :::::
