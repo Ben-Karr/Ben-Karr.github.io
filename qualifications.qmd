@@ -1,0 +1,87 @@
+---
+page-layout: full
+title-block-banner: false
+---
+
+<h1 style="text-align:center">Qualifications:</h1>
+
+::: {.content}
+
+## Certified:
+
+::: {.list-box}
+
+::: {.list-column}
+
+### Machine / Deep Learning
+* [Specialization Deep Learning](https://www.coursera.org/specializations/deep-learning)
+* [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
+* [Specialization TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
+
+### Software Development
+* [Specialization Accelerated Computer Science Fundamentals](https://www.coursera.org/specializations/cs-fundamentals)
+* [Specialization Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
+
+### Data Science & Visualization
+* [Interactive Python Dashboards with Plotly and Dashboards](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/)
+* [Master Data Visualization with Python and Matplotlib 3](https://www.udemy.com/course/master-data-visualization-with-python-and-matplotlib-3/)
+* [Data Science A-Z: Real-Life Data Science](https://www.udemy.com/course/datascience/)
+* [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science?specialization=learn-sql-basics-data-science)
+* [Data Wrangling, Analysis and AB Testing with SQL](https://www.coursera.org/learn/data-wrangling-analysis-abtesting?specialization=learn-sql-basics-data-science)
+* [Distributed Computing with Spark SQL](https://www.coursera.org/learn/spark-sql?specialization=learn-sql-basics-data-science)
+* [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python)
+* [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-python)
+* [Python 101 for Data Science](https://cognitiveclass.ai/courses/data-science-101)
+* [SAS Programming 1: Essentials](https://support.sas.com/edu/schedules.html?crs=PROG1&ctry=DE#s1=1)
+
+:::
+
+::: {.list-column}
+
+### Embedded ML
+* [Introduction to Embedded Machine Learning](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
+* [Computer Vision with Embedded Machine Learning](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)
+
+### GIS
+* [Fundamentals of GIS](https://www.coursera.org/learn/gis?specialization=gis)
+* [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data?specialization=gis)
+* [Geospatial and Environmental Analysis](https://www.coursera.org/learn/spatial-analysis?specialization=gis)
+* [Imagery, Automation, and Applications](https://www.coursera.org/learn/gis-applications?specialization=gis)
+
+
+### Cloud
+* [Google Cloud Certified - Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
+* [Microsoft Certified - Azure AI Fundamentals](https://docs.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
+
+### Misc
+* [Specialization Statistics with Python](https://www.coursera.org/specializations/statistics-with-python)
+
+:::
+
+:::
+
+## Audited:
+
+::: {.list-box}
+
+::: {.list-column}
+
+### Machine / Deep Learning
+
+#### Fastai
+* [Practical Deep Learning for Coders](http://course.fast.ai/)
+* [Part 2: Deep Learning from the Foundations](https://course19.fast.ai/part2)
+* [Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
+
+::: 
+
+::: {.list-column}
+
+### Embedded ML
+* [Tiny ML](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+
+:::
+
+:::
+
+:::

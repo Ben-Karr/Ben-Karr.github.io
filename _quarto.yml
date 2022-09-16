@@ -8,6 +8,8 @@ website:
     right:
       - text: Portfolio
         href: index.html
+      - text: Qualifications
+        href: qualifications.html
       - about.qmd
       - icon: github
         href: https://github.com/ben-karr
