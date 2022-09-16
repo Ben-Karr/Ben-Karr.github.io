@@ -110,5 +110,26 @@
     "title": "Titanic",
     "section": "",
     "text": "Check on GitHub"
+  },
+  {
+    "objectID": "qualifications.html",
+    "href": "qualifications.html",
+    "title": "My Machine Learning and Data Science Site",
+    "section": "",
+    "text": "Qualifications\nA comprehensive list of my major and minor qualifications:"
+  },
+  {
+    "objectID": "qualifications.html#certified",
+    "href": "qualifications.html#certified",
+    "title": "My Machine Learning and Data Science Site",
+    "section": "Certified:",
+    "text": "Certified:\n\n\n\nMachine / Deep Learning\n\nSpecialization Deep Learning\nMachine Learning\nSpecialization TensorFlow: Advanced Techniques\n\n\n\nSoftware Development\n\nSpecialization Accelerated Computer Science Fundamentals\nSpecialization Software Design and Architecture\n\n\n\nData Science & Visualization\n\nInteractive Python Dashboards with Plotly and Dashboards\nMaster Data Visualization with Python and Matplotlib 3\nData Science A-Z: Real-Life Data Science\nSQL for Data Science\nData Wrangling, Analysis and AB Testing with SQL\nDistributed Computing with Spark SQL\nData Analysis with Python\nData Visualization with Python\nPython 101 for Data Science\nSAS Programming 1: Essentials\n\n\n\n\n\nEmbedded ML\n\nIntroduction to Embedded Machine Learning\nComputer Vision with Embedded Machine Learning\n\n\n\nGIS\n\nFundamentals of GIS\nGIS Data Formats, Design and Quality\nGeospatial and Environmental Analysis\nImagery, Automation, and Applications\n\n\n\nCloud\n\nGoogle Cloud Certified - Associate Cloud Engineer\nMicrosoft Certified - Azure AI Fundamentals\n\n\n\nMisc\n\nSpecialization Statistics with Python"
+  },
+  {
+    "objectID": "qualifications.html#audited",
+    "href": "qualifications.html#audited",
+    "title": "My Machine Learning and Data Science Site",
+    "section": "Audited:",
+    "text": "Audited:\n\n\nMachine / Deep Learning\n\nFastai\n\nPractical Deep Learning for Coders\nPart 2: Deep Learning from the Foundations\nCode-First Introduction to Natural Language Processing\n\n\n\n\nEmbedded ML\n\nTiny ML"
   }
 ]
