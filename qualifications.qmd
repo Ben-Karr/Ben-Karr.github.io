@@ -3,8 +3,8 @@ page-layout: full
 title-block-banner: false
 ---
 
-<h1 style="text-align:center">Qualifications:</h1>
-
+<h1 style="text-align:center">Qualifications</h1>
+<p class="centered">A comprehensive list of my major and minor qualifications:</p>
 ::: {.content}
 
 ## Certified:

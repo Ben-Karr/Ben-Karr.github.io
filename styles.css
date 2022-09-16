@@ -69,3 +69,7 @@
 .list-box {
   display: flex;
 }
+
+.centered{
+  text-align: center;
+}
