@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/projects/Web/bird-classifier.html",
       "/projects/Web/tenzies.html",
       "/projects/Embedded/keyword_detection.html",
       "/projects/ComputerVision/keypoint_webcam.html",
