@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: different_440.jpeg
+image: portrait_440.jpeg
 about:
   template: jolla
   image-shape: round
