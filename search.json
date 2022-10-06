@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Languages & Tools:\n\n\nDevelopment:       \n\n\nTools:       \n\n\nFrameworks:       \n\n\nCloud & Web:       \n\n\n  This site was build with Quarto."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "My Machine Learning and Data Science Site",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "projects/Web/robo_app.html",
-    "href": "projects/Web/robo_app.html",
-    "title": "Robo App",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/Web/tenzies.html",
-    "href": "projects/Web/tenzies.html",
-    "title": "Tenzies React",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/Web/netflix_dash.html",
-    "href": "projects/Web/netflix_dash.html",
-    "title": "Netflix Dash",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/ComputerVision/shopee.html",
-    "href": "projects/ComputerVision/shopee.html",
-    "title": "Shopee Price Match",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/ComputerVision/keypoint_webcam.html",
-    "href": "projects/ComputerVision/keypoint_webcam.html",
-    "title": "Keypoint Webcam",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
     "objectID": "projects/ComputerVision/siim.html",
     "href": "projects/ComputerVision/siim.html",
     "title": "SIIM-FISABIO-RSNA",
@@ -59,6 +10,13 @@
     "objectID": "projects/ComputerVision/cloud_n.html",
     "href": "projects/ComputerVision/cloud_n.html",
     "title": "On Cloud N",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/shopee.html",
+    "href": "projects/ComputerVision/shopee.html",
+    "title": "Shopee Price Match",
     "section": "",
     "text": "Check on GitHub"
   },
@@ -80,6 +38,34 @@
     "objectID": "projects/ComputerVision/cell_seg.html",
     "href": "projects/ComputerVision/cell_seg.html",
     "title": "Sartorius Cell Segmentation",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/keypoint_webcam.html",
+    "href": "projects/ComputerVision/keypoint_webcam.html",
+    "title": "Keypoint Webcam",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/Web/tenzies.html",
+    "href": "projects/Web/tenzies.html",
+    "title": "Tenzies React",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/Web/robo_app.html",
+    "href": "projects/Web/robo_app.html",
+    "title": "Robo App",
+    "section": "",
+    "text": "Check on GitHub"
+  },
+  {
+    "objectID": "projects/Web/netflix_dash.html",
+    "href": "projects/Web/netflix_dash.html",
+    "title": "Netflix Dash",
     "section": "",
     "text": "Check on GitHub"
   },
@@ -110,6 +96,20 @@
     "title": "Titanic",
     "section": "",
     "text": "Check on GitHub"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Languages & Tools:\n\n\nDevelopment:       \n\n\nTools:       \n\n\nFrameworks:       \n\n\nCloud & Web:       \n\n\n  This site was build with Quarto."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Machine Learning and Data Science Site",
+    "section": "",
+    "text": "No matching items"
   },
   {
     "objectID": "qualifications.html",
