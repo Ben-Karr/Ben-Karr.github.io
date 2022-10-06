@@ -1,0 +1,22 @@
+---
+title: "Bird Classifier"
+categories: [Deployment, Computer Vision, Docker, FastAPI, heroku, React, JavaScript, web]
+date: "2022-10-05"
+gh-link: https://github.com/Ben-Karr/react-bird-classifier
+---
+::::: {.content-frame}
+_A React web app that lets you classify different birds species._
+
+[![](../assets/bird-classifier_example.png)](https://ben-karr.github.io/react-bird-classifier/)
+
+
+Sends you uploaded photo to an API hosted on heroku and shows the predicted label as well as the per-label confidences achieved by the machine learning model.
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>
