@@ -1,122 +1,115 @@
 [
   {
-    "objectID": "projects/ComputerVision/siim.html",
-    "href": "projects/ComputerVision/siim.html",
-    "title": "SIIM-FISABIO-RSNA",
+    "objectID": "projects/Tabular/titanic.html",
+    "href": "projects/Tabular/titanic.html",
+    "title": "Titanic",
     "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/ComputerVision/cloud_n.html",
-    "href": "projects/ComputerVision/cloud_n.html",
-    "title": "On Cloud N",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/ComputerVision/shopee.html",
-    "href": "projects/ComputerVision/shopee.html",
-    "title": "Shopee Price Match",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/ComputerVision/robo_ml.html",
-    "href": "projects/ComputerVision/robo_ml.html",
-    "title": "Robo ML",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/ComputerVision/zazzup.html",
-    "href": "projects/ComputerVision/zazzup.html",
-    "title": "Zazzup Webcam",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/ComputerVision/cell_seg.html",
-    "href": "projects/ComputerVision/cell_seg.html",
-    "title": "Sartorius Cell Segmentation",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/ComputerVision/keypoint_webcam.html",
-    "href": "projects/ComputerVision/keypoint_webcam.html",
-    "title": "Keypoint Webcam",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/Web/tenzies.html",
-    "href": "projects/Web/tenzies.html",
-    "title": "Tenzies React",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/Web/robo_app.html",
-    "href": "projects/Web/robo_app.html",
-    "title": "Robo App",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/Web/netflix_dash.html",
-    "href": "projects/Web/netflix_dash.html",
-    "title": "Netflix Dash",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/Web/bird-classifier.html",
-    "href": "projects/Web/bird-classifier.html",
-    "title": "Bird Classifier",
-    "section": "",
-    "text": "Check on GitHub"
-  },
-  {
-    "objectID": "projects/Embedded/keyword_detection.html",
-    "href": "projects/Embedded/keyword_detection.html",
-    "title": "Keyword Detection",
-    "section": "",
-    "text": "Check on GitHub"
+    "text": "Predict who survived the Titanic shipwreck in a kaggle competition.\n\n\n\n\nLName\nPclass\nSex\nSibSp\nParch\nCabin\nTitle\nAge\nFare\ntarget\n\n\n\n\nVovk\n3\nmale\n0\n0\nN\nMr\n-0.5500\n-0.4892\n0\n\n\nTobin\n3\nmale\n0\n0\nF\nMr\n-0.0827\n-0.4921\n0\n\n\nPorter\n1\nmale\n0\n0\nC\nMr\n1.2989\n0.3984\n0\n\n\nWick\n1\nfemale\n0\n2\nC\nMiss\n0.1156\n2.6696\n1\n\n\nSutehall\n3\nmale\n0\n0\nN\nMr\n-0.3281\n-0.5062\n0\n\n\nKlaber\n1\nmale\n0\n0\nC\nMr\n0.8885\n-0.1138\n0\n\n\n\n\nThis dataset contains information about all passangers of the Titanic voyage. After preprocessing and condensing some features I used fastai to train a Neural Net on that data. To find the “best” hyperparameters I ran a random search and stuck with the best performing. I also trained a Gradient Booster to compare the results.\n\n\n  Check on GitHub"
   },
   {
     "objectID": "projects/Tabular/house_pricing.html",
     "href": "projects/Tabular/house_pricing.html",
     "title": "House Pricing",
     "section": "",
-    "text": "Check on GitHub"
+    "text": "Predict the housing prices in a kaggle competition.\n\n\n\n\n\nThis dataset consists of 79 features about sold houses but came with a lot of missing values which had to be filled manually and apropriately. I learned a Neural Net and a Gradient Booster to predict the house prices and ensembled both learners to decrease the error value.\n\n\n  Check on GitHub"
   },
   {
     "objectID": "projects/Tabular/basketball_scores.html",
     "href": "projects/Tabular/basketball_scores.html",
     "title": "Basketball Score",
     "section": "",
-    "text": "Check on GitHub"
+    "text": "Predict the scores of NCAA basketball games.\n\n\n\n\n\nThis dataset consisted of game results from the last 5 years in NCAA basketball. Since it was sourced by scraping the web, I needed to do a lot of cleaning and preparation of the source and engineered some useful features to train a Neural Net with keras. I also compared it to the results of fastai and XGBoost.\n\n\n  Check on GitHub"
   },
   {
-    "objectID": "projects/Tabular/titanic.html",
-    "href": "projects/Tabular/titanic.html",
-    "title": "Titanic",
+    "objectID": "projects/Embedded/keyword_detection.html",
+    "href": "projects/Embedded/keyword_detection.html",
+    "title": "Keyword Detection",
     "section": "",
-    "text": "Check on GitHub"
+    "text": "Deploy a keyword detection model to an Arduino.\n\n\n\n\n\nTrain a custom keyword detection model with keras and save a quantized version with TFLite. Move this model to the Arduino and use Arduino TensorflowLite to do inference.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/Web/netflix_dash.html",
+    "href": "projects/Web/netflix_dash.html",
+    "title": "Netflix Dash",
+    "section": "",
+    "text": "Show and compare which countries watch which kind of Netflix shows.\n\n\n\n\n\nI used Plotly and Dash to build a Dashboard that lets you choose a list of countries and a list of Netflix show genres, which can be visualized in different forms.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/Web/robo_app.html",
+    "href": "projects/Web/robo_app.html",
+    "title": "Robo App",
+    "section": "",
+    "text": "Make the Machine Learning algorithm from RoboML accessible by a webapp.\n\n\n\n\n\nThis is my attempt of building a custom webpage with Flask at the backend and html, CSS and JavaScript in the frontend. The design was made to make it as simple as possible to navigate through the page with a smartphone.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/Web/tenzies.html",
+    "href": "projects/Web/tenzies.html",
+    "title": "Tenzies React",
+    "section": "",
+    "text": "Build the game of Tenzi as a React App.\n\n\n\n\n\nThis is the final project of the great Learn React Course by Bob Ziroll. I added a “Roll Counter” and local state that lets you save the “LowScore”.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/Web/bird-classifier.html",
+    "href": "projects/Web/bird-classifier.html",
+    "title": "Bird Classifier",
+    "section": "",
+    "text": "A React web app that lets you classify different birds species.\n\n\n\n\n\nSends you uploaded photo to an API hosted on heroku and shows the predicted label as well as the per-label confidences achieved by the machine learning model.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/cloud_n.html",
+    "href": "projects/ComputerVision/cloud_n.html",
+    "title": "On Cloud N",
+    "section": "",
+    "text": "Segment Satelite data into Cloud and No Cloud.\n\n\n\n\n\nThis Challenge was hosted on DrivenData and the goal is to segment clouds in Sentinel-2 Satelite data. Besides visual image data, the Sentinel-2 dataset also offers different non-visual bands, in particular infrared. This solution uses geometric augmentations on all four channels and “visual” augmentations on the rgb-channels only. The model is a simple U-Net that is pretrained on 440x440 random crops and fine tuned on the whole image in the original chip resolution (512x512).\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/siim.html",
+    "href": "projects/ComputerVision/siim.html",
+    "title": "SIIM-FISABIO-RSNA",
+    "section": "",
+    "text": "Identify and localize COVID-19 abnormalities on chest radiographs.\n\n\n\n\n\nIn this project I prepared a medical image dataset and the related dataframe to be used in a Neural Net that predicts an arbitrary number of labeled bounding boxes. These boxes are designed to assist doctors in identifying COVID-19 infections by suggesting an area of interest and a classification of them. The backbone of this project is a RetinaNet, that makes use of Anchor boxes and Focal Loss and can be used with different encoders like (X)Resnets or EfficientNets.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/shopee.html",
+    "href": "projects/ComputerVision/shopee.html",
+    "title": "Shopee Price Match",
+    "section": "",
+    "text": "Decide whether two images describe the same item or not.\n\n\n\n\n\nThis problem is often encountered in online retail: if you can automatically decide whether an image of a product your competitor offers is the same as yours, you can adjust the price of yours and gain an edge. The advantage of the SiameseImage class is, that for every epoch, every image gets paired with a different image (instead of pairing the image once for all training) to augment the dataset and prevent overfitting. In this project I refined the fastai SiameseImage class and DataLoader method, to make use of a given dataframe that contains the items labels and speed up the dataloading process.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/cell_seg.html",
+    "href": "projects/ComputerVision/cell_seg.html",
+    "title": "Sartorius Cell Segmentation",
+    "section": "",
+    "text": "Segment individual cells in cancer cell lines.\n\n\n\n\n\nI use my own approach of switching between classification and semantic segmentation with a simple U-Net (sharing a backbone and separating individual cells in postprocessing) as well as the direct use of instance segmentation with Detectron2. Of course the (ResNet32/50) U-Net models can not keep up with the Mask-RCNN Detectron uses, but it still gained about 10% Map IoU when using this approach.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/keypoint_webcam.html",
+    "href": "projects/ComputerVision/keypoint_webcam.html",
+    "title": "Keypoint Webcam",
+    "section": "",
+    "text": "Detect Keypoints in a video.\n\n\n\n\n\nLoad a FasterRCNN keypoint model in python / Pytorch and move it to C++ via torchscript. Show a webcam feed with OpenCV and use the model with LibTorch to predict keypoints on the webcam images. Draw the keypoints and limbs onto the images.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/zazzup.html",
+    "href": "projects/ComputerVision/zazzup.html",
+    "title": "Zazzup Webcam",
+    "section": "",
+    "text": "Add a hat and a bowtie to a face in a webcam stream.\n\n\n\n\n\nI used C++ and OpenCV (in particular a pretrained Haar Cascade Classifier) to dynamically find the bounding box of a face in a video. I then add pictures of a hat and a bowtie to the upper/lower edge of that box.\n\n\n  Check on GitHub"
+  },
+  {
+    "objectID": "projects/ComputerVision/robo_ml.html",
+    "href": "projects/ComputerVision/robo_ml.html",
+    "title": "Robo ML",
+    "section": "",
+    "text": "Build a dataset of photos of electronic circuits, that are either fully functioning or broken at different place.\n\n\n\n\n\nI cropped, resized and labeled the images with a lot of additional information to make it easy to train a CNN while accounting for different situations, that would occour in “reality”. This helped to understand in which situation the classifier predicts reliably and to adapt the data collection process.\n\n\n  Check on GitHub"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Languages & Tools:\n\n\nDevelopment:       \n\n\nTools:       \n\n\nFrameworks:       \n\n\nCloud & Web:       \n\n\n  This site was build with Quarto."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "My Machine Learning and Data Science Site",
-    "section": "",
-    "text": "No matching items"
+    "text": "I’m a mathematician with a special interest in Deep Learning and Data Science. This site shows a selection of my personal projects which demonstrates some of my skills in Machine/Deep Learning, Computer Vision, Data Science, Data Preparation, Data Visualization, Web Development and general programming.\n\nLanguages & Tools:\n\n\nDevelopment:       \n\n\nTools:       \n\n\nFrameworks:       \n\n\nCloud & Web:       \n\n\n  This site was build with Quarto."
   },
   {
     "objectID": "qualifications.html",
@@ -130,7 +123,7 @@
     "href": "qualifications.html#certified",
     "title": "My Machine Learning and Data Science Site",
     "section": "Certified:",
-    "text": "Certified:\n\n\n\nMachine / Deep Learning\n\nSpecialization Deep Learning\nMachine Learning\nSpecialization TensorFlow: Advanced Techniques\n\n\n\nSoftware Development\n\nSpecialization Accelerated Computer Science Fundamentals\nSpecialization Software Design and Architecture\n\n\n\nData Science & Visualization\n\nInteractive Python Dashboards with Plotly and Dashboards\nMaster Data Visualization with Python and Matplotlib 3\nData Science A-Z: Real-Life Data Science\nSQL for Data Science\nData Wrangling, Analysis and AB Testing with SQL\nDistributed Computing with Spark SQL\nData Analysis with Python\nData Visualization with Python\nPython 101 for Data Science\nSAS Programming 1: Essentials\n\n\n\n\n\nEmbedded ML\n\nIntroduction to Embedded Machine Learning\nComputer Vision with Embedded Machine Learning\n\n\n\nGIS\n\nFundamentals of GIS\nGIS Data Formats, Design and Quality\nGeospatial and Environmental Analysis\nImagery, Automation, and Applications\n\n\n\nCloud\n\nGoogle Cloud Certified - Associate Cloud Engineer\nMicrosoft Certified - Azure AI Fundamentals\n\n\n\nMisc\n\nSpecialization Statistics with Python"
+    "text": "Certified:\n\n\n\nMachine / Deep Learning\n\nSpecialization: Deep Learning\nMachine Learning\nSpecialization: TensorFlow: Advanced Techniques\n\n\n\nSoftware Development\n\nSpecialization: Accelerated Computer Science Fundamentals\nSpecialization: Software Design and Architecture\n\n\n\nData Science & Visualization\n\nInteractive Python Dashboards with Plotly and Dashboards\nMaster Data Visualization with Python and Matplotlib 3\nData Science A-Z: Real-Life Data Science\nSQL for Data Science\nData Wrangling, Analysis and AB Testing with SQL\nDistributed Computing with Spark SQL\nData Analysis with Python\nData Visualization with Python\nPython 101 for Data Science\nSAS Programming 1: Essentials\n\n\n\n\n\nEmbedded ML\n\nIntroduction to Embedded Machine Learning\nComputer Vision with Embedded Machine Learning\n\n\n\nGIS\n\nFundamentals of GIS\nGIS Data Formats, Design and Quality\nGeospatial and Environmental Analysis\nImagery, Automation, and Applications\n\n\n\nCloud\n\nGoogle Cloud Certified - Associate Cloud Engineer\nMicrosoft Certified - Azure AI Fundamentals\n\n\n\nMisc\n\nSpecialization: Statistics with Python"
   },
   {
     "objectID": "qualifications.html#audited",
@@ -138,5 +131,12 @@
     "title": "My Machine Learning and Data Science Site",
     "section": "Audited:",
     "text": "Audited:\n\n\nMachine / Deep Learning\n\nFastai: Practical Deep Learning for Coders\nFastai: Part 2: Deep Learning from the Foundations\nFastai: Code-First Introduction to Natural Language Processing\n\n\n\nEmbedded ML\n\nTiny ML"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Machine Learning and Data Science Site",
+    "section": "",
+    "text": "No matching items"
   }
 ]
