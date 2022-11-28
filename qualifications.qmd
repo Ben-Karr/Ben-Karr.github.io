@@ -14,13 +14,13 @@ title-block-banner: false
 ::: {.list-column}
 
 ### Machine / Deep Learning
-* [Specialization Deep Learning](https://www.coursera.org/specializations/deep-learning)
+* [Specialization: Deep Learning](https://www.coursera.org/specializations/deep-learning)
 * [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
-* [Specialization TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
+* [Specialization: TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
 
 ### Software Development
-* [Specialization Accelerated Computer Science Fundamentals](https://www.coursera.org/specializations/cs-fundamentals)
-* [Specialization Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
+* [Specialization: Accelerated Computer Science Fundamentals](https://www.coursera.org/specializations/cs-fundamentals)
+* [Specialization: Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
 
 ### Data Science & Visualization
 * [Interactive Python Dashboards with Plotly and Dashboards](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/)
@@ -54,7 +54,7 @@ title-block-banner: false
 * [Microsoft Certified - Azure AI Fundamentals](https://docs.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
 
 ### Misc
-* [Specialization Statistics with Python](https://www.coursera.org/specializations/statistics-with-python)
+* [Specialization: Statistics with Python](https://www.coursera.org/specializations/statistics-with-python)
 
 :::
 
