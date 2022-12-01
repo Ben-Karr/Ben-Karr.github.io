@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/projects/Web/3d-gradients.html",
       "/projects/Web/bird-classifier.html",
       "/projects/Web/tenzies.html",
       "/projects/Embedded/keyword_detection.html",

@@ -56,6 +56,13 @@
     "text": "A React web app that lets you classify different birds species.\n\n\n\n\n\nSends you uploaded photo to an API hosted on heroku and shows the predicted label as well as the per-label confidences achieved by the machine learning model.\n\n\n  Check on GitHub"
   },
   {
+    "objectID": "projects/Web/3d-gradients.html",
+    "href": "projects/Web/3d-gradients.html",
+    "title": "3D Gradient Descent",
+    "section": "",
+    "text": "A React web app that visualizes gradient descent in 3D.\n\n\n\n\n\nWith this app you can:\n\n\nmanually fit a quadratic function to some data,\nuse a Stepper to automatically step the parameters towards the local minimum,\nhave a look at the trace the loss left as it walked through the loss surface,\nchoose from different critics (mae,mse,rmse) to “see” how changing the way we measure the loss effects gradient descent,\nintuitively interact with the 3D-plot by dragging and zoom, to keep the interesting parts in focus.\n\n\n\n\n  Check on GitHub"
+  },
+  {
     "objectID": "projects/ComputerVision/cloud_n.html",
     "href": "projects/ComputerVision/cloud_n.html",
     "title": "On Cloud N",
