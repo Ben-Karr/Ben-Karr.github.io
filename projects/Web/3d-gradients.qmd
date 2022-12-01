@@ -1,0 +1,34 @@
+---
+title: "3D Gradient Descent"
+categories: [Machine Learning Theory, Visualization, React, Plotly, JavaScript, CSS, web]
+date: "2022-11-30"
+image: ../assets/thumbnails/3d-gradients_thumb.png
+gh-link: https://github.com/Ben-Karr/react-3d-gradients
+---
+
+::::: {.content-frame}
+
+_A React web app that visualizes gradient descent in 3D._
+
+[![](../assets/3d-gradients_impression.png)](https://ben-karr.github.io/react-3d-gradients/)
+
+With this app you can:
+
+::: {.left-flush}
+* manually fit a quadratic function to some data,
+* use a Stepper to automatically step the parameters towards the local minimum,
+* have a look at the trace the loss left as it walked through the loss surface,
+* choose from different critics (`mae`,`mse`,`rmse`) to “see” how changing the way we measure the loss effects gradient descent,
+* intuitively interact with the 3D-plot by dragging and zoom, to keep the interesting parts in focus.
+
+::: 
+
+:::::
+
+<div class="gh-footer">
+<i class="bi bi-github">
+<a href="{{< meta gh-link >}}" class="gh-link">
+Check on GitHub
+</a>
+</i>
+</div>
