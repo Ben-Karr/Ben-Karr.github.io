@@ -15,6 +15,7 @@ _A React web app that visualizes gradient descent in 3D._
 With this app you can:
 
 ::: {.left-flush}
+
 * manually fit a quadratic function to some data,
 * use a Stepper to automatically step the parameters towards the local minimum,
 * have a look at the trace the loss left as it walked through the loss surface,
