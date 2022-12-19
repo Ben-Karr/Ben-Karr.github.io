@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/blog.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/projects/Web/3d-gradients.html",
@@ -19,9 +23,5 @@
       "/projects/Tabular/titanic.html",
       "/projects/Tabular/house_pricing.html"
     ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": []
   }
 ]
