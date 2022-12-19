@@ -9,6 +9,9 @@ _A React web app that lets you classify different birds species._
 
 [![](../assets/bird-classifier_example.png)](https://ben-karr.github.io/react-bird-classifier/)
 
+::: {.callout-warning}
+Right now broken since Heroku discontinued free Dinos (used to host Docker containers).
+:::
 
 Sends you uploaded photo to an API hosted on heroku and shows the predicted label as well as the per-label confidences achieved by the machine learning model.
 :::::
